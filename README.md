@@ -1,1 +1,1 @@
-função com back-end
+funções com back-end
